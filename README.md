@@ -1,2 +1,2 @@
 # viva2
-The newest version of my 2d game engine
+Obsolete. Newest version is Viva4.
